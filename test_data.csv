@@ -1,0 +1,11 @@
+Number_of_Riders,Number_of_Drivers,Vehicle_Type,Expected_Ride_Duration,Historical_Cost_of_Ride,adjusted_ride_cost
+10,5,Economy,20,150,180
+15,7,Premium,25,200,240
+8,3,Economy,15,120,140
+12,6,Premium,30,250,300
+9,4,Economy,18,130,155
+20,10,Premium,40,300,350
+5,3,Economy,10,100,120
+18,8,Premium,35,280,330
+6,2,Economy,12,110,130
+22,12,Premium,45,320,370
